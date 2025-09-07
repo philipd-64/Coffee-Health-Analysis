@@ -291,3 +291,8 @@ Age of beans or grounds?
 Type of drinking vessel (glass, ceramic, vacuum/double-walled bottle, etc)?
 Additives? (Sugar, cream, flavorings, etc).
 Are these people getting their coffee from home or a café of some sort?
+
+# Link to Tableau for Analysis
+https://public.tableau.com/app/profile/philip.davis7787/viz/CoffeeAnalysis_17572030841000/StoryBoard?publish=yes 
+<img width="2213" height="81" alt="image" src="https://github.com/user-attachments/assets/a7223d60-8e7b-4f04-823e-5eea62db837e" />
+
